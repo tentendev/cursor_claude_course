@@ -1,6 +1,6 @@
-# Website
+# Cursor Claude Course
 
-This website is built using [Docusaurus](https://docusaurus.io/), a modern static website generator.
+This repository contains the Manus cursor course content, built using [Docusaurus](https://docusaurus.io/), a modern static website generator.
 
 ## Installation
 
@@ -39,11 +39,3 @@ GIT_USER=<Your GitHub username> yarn deploy
 ```
 
 If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
-
-After closing the editor, the rebase will continue automatically. Then, run:
-
-```sh
-git push -u origin main
-```
-
-This will push your changes to GitHub and trigger the Vercel deployment.
